@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .box{
+            width:500px;
+            height:500px;
+        }
+        div p{
+            width:500px;
+            height:500px;
+            border:1px solid red;
+            /*word-break:break-word;*/
+            /*display:block;*/
+            text-align: left;
+            /*overflow: hidden;*/
+
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+    <p>打书的伐开森京东方科技啊上岛咖啡集合埃里克森剪短发回来看见俺收到回复了客家话阿斯蒂芬啊打书的伐开森京东方科技啊上岛咖啡集合埃里克森剪短发回来看见俺收到回复了客家话阿斯蒂芬啊打书的伐开森京东方科技啊上岛咖啡集合埃里克森剪短发回来看见俺收到回复了客家话阿斯蒂芬啊</p>
+
+</div>
+</body>
+</html>
